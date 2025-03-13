@@ -18,7 +18,7 @@ After the initial "build" iteration, I will iterate again through the string fro
 
 ## Complexity:
 - Time complexity:  `O(n)`
-- Space Complexity: `O(c)`
+- Space Complexity: `O(1)`
 
 Solutions has a time complexity of `O(n)`, dependent on the length of the string.
 Iterating through the loop again doesn't affect complexity, as it isn't nested.
