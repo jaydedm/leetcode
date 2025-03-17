@@ -2,7 +2,7 @@
 
 :wrench: I've used Leetcode for some time now, and enjoy the puzzles.
 
-:mega: I created this repo as a marker of accountability, and to showcase the daily dedication to my craft publically.
+:mega: I created this repo as a marker of accountability to showcase the daily dedication to my craft publically.
 
 :lock: Most of my work is private, and usually not attributed to my GitHub contributions.
 
